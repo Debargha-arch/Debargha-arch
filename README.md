@@ -6,5 +6,5 @@
 
 <br><br><br><br><br><br><br><br><br>
 # Achievements
-<br /><br /><br />
+<br />
 <img align="bottom" alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=Debargha-arch" />
