@@ -1,3 +1,40 @@
 ### Hello,Welcome to my Github Profile 👋 I am Debargha Mukherjee
 
-https://camo.githubusercontent.com/54d099f855c90dc4245b39f6ac8c2c4532cc5c3526afb65e781430e0fe670d0c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4d6173746572732d416b742673686f775f69636f6e733d7472756526686964655f626f726465723d7472756526636f756e745f707269766174653d74727565267468656d653d746f6b796f6e69676874
+Website Twitter Follow
+
+I'm a Husband, Father, Developer, and Teacher!!
+🔭 I just launched my first course: Become A VS Code SuperHero!!
+🌱 I’m currently learning everything 🤣
+👯 I’m looking to collaborate with other content creators
+🥅 2020 Goals: Contribute more to Open Source projects
+⚡ Fun fact: I love to draw and play guitar / drums
+Spotify Playing 🎧
+codeSTACKr Spotify Playing
+
+Connect with me:
+codeSTACKr.comcodeSTACKr | YouTubecodeSTACKr | TwittercodeSTACKr | LinkedIncodeSTACKr | Instagram
+
+
+Languages and Tools:
+Visual Studio CodeHTML5CSS3SassJavaScriptReactGatsbyGraphQLNode.jsDenoSQLMySQLMongoDBGitGitHubTerminal
+
+
+
+📺 Latest YouTube Videos
+Who Will Win? No-Code, Low-Code, AI. Should You Be Worried?
+How To Manage Multiple APIs with RapidAPI (2021)
+How Core Web Vitals Will Affect Google Rankings in 2021 | Interview :: Lee Robinson
+Build Fullstack Apps in Record Time with Blitz.js | Interview :: Brandon Bayer (2021)
+Create an Application Backend in Clicks with the Amplify Admin UI | Interview :: Ali Spittel (2021)
+➡️ more videos...
+
+📕 Latest Blog Posts
+How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer
+Microinteractions: Password Validation Animation
+Notion + YouTube - A Powerful Combination for Productivity
+Regular Expressions (RegEx) Crash Course
+Emmet Part 2 - Advanced
+➡️ more blog posts...
+
+⚡ Recent GitHub Activity
+⚡ GitHub Stats
