@@ -4,4 +4,4 @@
 
 <img align="right" alt="Most Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debargha-arch&theme=yeblu" />
 
-<img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=Debargha-arch" />
+<img align="bottom" alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=Debargha-arch" />
