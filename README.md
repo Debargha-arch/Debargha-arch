@@ -9,3 +9,6 @@
 # Achievements
 <br />
 <img align="bottom" alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=Debargha-arch" />
+<br><br>
+<img src="https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS" />
+
