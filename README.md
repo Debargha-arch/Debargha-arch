@@ -10,5 +10,5 @@
 <br />
 <img align="bottom" alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=Debargha-arch" />
 <br><br>
-<img src="https://komarev.com/ghpvc/?username=Debargha-arch&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=Debargha-arch&label=PROFILE+VISITS" />
 
