@@ -1,4 +1,6 @@
-### Hello,Welcome to my Github Profile 👋 I am Debargha Mukherjee
+### Hello,Welcome to my Github Profile 👋
+
+I am a pre-final year undergraduate pursuing B.tech in Computer Science and Engineering in <b>Kalinga Institute of Industrial Technology</b>. It has been few months that I discovered about open-source. Since, then this has fascinated me to contribute more towards the community. This also helped me to learn new tech stuffs. 
 
 <img align="left" alt="Debargha-arch's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Debargha-arch&show_icons=true&theme=tokyonight" />
 
