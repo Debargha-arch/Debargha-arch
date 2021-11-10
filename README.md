@@ -10,6 +10,7 @@ I am a <b>pre-final</b> year undergraduate pursuing B.tech in <b>Computer Scienc
 # Achievements
 <br />
 <img align="bottom" alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=Debargha-arch" />
+<img align="center" alt="Hacktoberfest" src="https://res.cloudinary.com/practicaldev/image/fetch/s--cm4PWdMq--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png" />
 <br><br>
 <img src="https://komarev.com/ghpvc/?username=Debargha-arch&label=PROFILE+VISITS" />
 
